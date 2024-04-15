@@ -1,12 +1,12 @@
 [
     {
-        "name": "sdf",
-        "number": 345,
-        "tip": "dfg"
+        "name": "san",
+        "знак зодиака": "cvv",
+        "year": 123
     },
     {
-        "name": "sdfg",
-        "number": 456,
-        "tip": "sdf"
+        "name": "lkjhg",
+        "знак зодиака": "[;.;lk",
+        "year": 789
     }
 ]
